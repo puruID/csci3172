@@ -3,7 +3,8 @@
 
 * *Date Created*: 16 009 2024
 * *Last Modification Date*: 16 009 2024
-* *Lab URL*: <https://web.cs.dal.ca/~parora/csci3172/activities/lecture5/>
+* *Timberlea Lab URL*: <https://web.cs.dal.ca/~parora/csci3172/activities/lecture5/>
+* *Git URL*:<https://git.cs.dal.ca/parora/csci3172.git>
 
 
 ## Authors
