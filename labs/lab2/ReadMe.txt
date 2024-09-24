@@ -18,6 +18,8 @@ If what is being submitted is an individual Lab or Assignment, you may simply in
 
 ## script.js
 
+##lab 2 slides from the course 3172(Fall 2024)
+
 *Lines 45-46*
 
 //(a) What is the scope of a const variable?
