@@ -1,0 +1,5 @@
+City,Temperature
+City: Vancouver Temperature: 10°C
+City: Calgary Temperature: 8°C
+City: Halifax Temperature: 5°C
+City: Toronto Temperature: 8°C
